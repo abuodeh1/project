@@ -1,10 +1,3 @@
-this is my text
-gggggggggggggggggggggg
-<<<<<<< HEAD
-don't delete this file
-=======
 don't delete this file
 what is your name?
 fghfghfghfhfgh
-yuiuyiuy
->>>>>>> fadb59fe92fda9da3438e3b89e2e9b6ecdc21eb5
