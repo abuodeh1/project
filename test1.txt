@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 one two three
 how are you?
 thank you Mohammad
+=======
+this is my text
+don't delete this file
+what is your name?
+>>>>>>> 5647f9fe519da4af687763fc63bf8b06cb5da6f7
