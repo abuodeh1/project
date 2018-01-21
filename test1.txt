@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-don't delete this file
-what is your name?
-fghfghfghfhfgh
-=======
 git config merge.conflictstyle diff3
 git config merge.conflictstyle diff3
 git config merge.conflictstyle diff3
->>>>>>> 35c288c411e25a56ec794816bbabc980d2184ccd
+
