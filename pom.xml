@@ -33,7 +33,6 @@
                         <manifest>
                             <addDefaultImplementationEntries>true</addDefaultImplementationEntries>
                             <addDefaultSpecificationEntries>true</addDefaultSpecificationEntries>
-                            <mainClass>org.ea.VersioningDemo</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
