@@ -1,4 +1,0 @@
-git config merge.conflictstyle diff3
-git config merge.conflictstyle diff3
-git config merge.conflictstyle diff3
-
