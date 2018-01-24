@@ -4,7 +4,7 @@
 
     <groupId>project.test</groupId>
     <artifactId>project-test</artifactId>
-    <version>0.62</version>
+    <version>0.62-SNAPSHOT</version>
 
     <properties>
         <maven.compiler.target>1.8</maven.compiler.target>
@@ -25,8 +25,8 @@
 	</distributionManagement>
 
     <scm>
-        <connection>scm:git:git@github.com/abuodeh1/project-test.git</connection>
-        <developerConnection>scm:git:git@github.com/abuodeh1/project-test.git</developerConnection>
+        <connection>scm:git:github.com/abuodeh1/project-test.git</connection>
+        <developerConnection>scm:git:github.com/abuodeh1/project-test.git</developerConnection>
         <url>https://github.com/abuodeh1/project-test</url>
         <tag>0.62</tag>
     </scm>
