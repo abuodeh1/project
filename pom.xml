@@ -27,8 +27,7 @@
     <scm>
         <connection>scm:git:ssh://git@github.com/abuodeh1/project-test.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/abuodeh1/project-test.git</developerConnection>
-        <url>https://github.com/abuodeh1/project-test</url>
-        <!-- <url>file:${project.build.directory}/repository/</url> -->
+        <url>https://github.com/abuodeh1/project-test.git</url>
         <tag>0.62</tag>
     </scm>
 
