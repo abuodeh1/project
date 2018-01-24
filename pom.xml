@@ -4,7 +4,7 @@
 
     <groupId>project.test</groupId>
     <artifactId>project-test</artifactId>
-    <version>0.62-SNAPSHOT</version>
+    <version>0.62</version>
 
     <properties>
         <maven.compiler.target>1.8</maven.compiler.target>
@@ -29,7 +29,7 @@
         <developerConnection>scm:git:ssh://git@github.com/abuodeh1/project-test.git</developerConnection>
         <url>https://github.com/abuodeh1/project-test</url>
         <!-- <url>file:${project.build.directory}/repository/</url> -->
-        <tag>@{project.version}</tag>
+        <tag>0.62</tag>
     </scm>
 
     <build>
