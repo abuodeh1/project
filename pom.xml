@@ -29,7 +29,7 @@
         <developerConnection>scm:git:ssh://git@github.com/abuodeh1/project-test.git</developerConnection>
         <url>https://github.com/abuodeh1/project-test</url>
         <!-- <url>file:${project.build.directory}/repository/</url> -->
-        <tag>0.61</tag>
+        <tag>@{project.version}</tag>
     </scm>
 
     <build>
