@@ -20,7 +20,7 @@
 		<repository>
 			<id>project-test</id>
 			<name>project-test</name>
-			<url>https://github.com/abuodeh1/project-test.git</url>
+			<url>https://github.com/abuodeh1/project-test</url>
 		</repository>
 	</distributionManagement>
 
