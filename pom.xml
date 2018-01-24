@@ -20,14 +20,15 @@
 		<repository>
 			<id>project-test</id>
 			<name>project-test</name>
-			<url>git:develop://git@github.com:abuodeh1/project-test.git</url>
+			<url>https://github.com/abuodeh1/project-test</url>
 		</repository>
 	</distributionManagement>
-	
+
     <scm>
-        <connection>scm:git:git@github.com:abuodeh1/project-test.git</connection>
-        <developerConnection>scm:git:git@github.com:abuodeh1/project-test.git</developerConnection>
+        <connection>scm:git:ssh://git@github.com:abuodeh1/project-test.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com:abuodeh1/project-test.git</developerConnection>
         <url>https://github.com/abuodeh1/project-test</url>
+        <!-- <url>file:${project.build.directory}/repository/</url> -->
         <tag>@{project.version}</tag>
     </scm>
 
