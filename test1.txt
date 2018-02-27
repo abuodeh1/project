@@ -3,6 +3,6 @@ git config merge.conflictstyle diff3
 git config merge.conflictstyle diff3
 
 hello
-welcome version 2
+welcome version 3.1111111
 
 sdfsdfd
